@@ -1,0 +1,252 @@
+{
+  "width": 1024,
+  "height": 768,
+  "physics": {
+    "gravityx": 0.0,
+    "gravityy": 1.0
+  },
+  "layers": [
+    {
+      "layer": 1,
+      "objects": [
+        {
+          "name": "obj_player",
+          "x": 128,
+          "y": 576
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 64,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 128,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 192,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 256,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 320,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 384,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 448,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 512,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 576,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 640,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 704,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 768,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 832,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 896,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 960,
+          "y": 704
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 640
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 576
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 512
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 448
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 384
+        },
+        {
+          "name": "obj_block",
+          "x": 0,
+          "y": 320
+        },
+        {
+          "name": "obj_block",
+          "x": 448,
+          "y": 640
+        }
+      ],
+      "tiles": [
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 64,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 128,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 192,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 256,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 320,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 384,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 448,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 512,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 576,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 640,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 704,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 768,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 832,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 896,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 960,
+          "y": 704
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 320
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 384
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 448
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 512
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 576
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 0,
+          "y": 640
+        },
+        {
+          "name": "tle_stonebrick",
+          "x": 448,
+          "y": 640
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "width": 1024,
+  "height": 768,
+  "physics": {
+    "gravityx": 0.0,
+    "gravityy": 1.0
+  },
+  "layers": [
+    {
+      "layer": 0,
+      "objects": [
+        {
+          "name": "obj_lose",
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "tiles": []
+    },
+    {
+      "layer": 1,
+      "objects": [],
+      "tiles": []
+    }
+  ]
+}

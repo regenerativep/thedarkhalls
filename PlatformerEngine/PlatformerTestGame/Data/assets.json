@@ -1,0 +1,158 @@
+{
+  "assets": [
+    {
+      "name": "obj_block",
+      "type": "texture",
+      "path": "sprites\\blockplaceholder"
+    },
+    {
+      "name": "tle_stonebrick_none",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_none"
+    },
+    {
+      "name": "tle_stonebrick_right",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_right"
+    },
+    {
+      "name": "tle_stonebrick_left",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_left"
+    },
+    {
+      "name": "tle_stonebrick_bottomright",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_bottomright"
+    },
+    {
+      "name": "tle_stonebrick_bottomleft",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_bottomleft"
+    },
+    {
+      "name": "tle_stonebrick_bottom",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_bottom"
+    },
+    {
+      "name": "tle_stonebrick_bottomleftright",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_all"
+    },
+    {
+      "name": "tle_stonebrick_leftright",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_leftright"
+    },
+    {
+      "name": "itm_sword",
+      "type": "texture",
+      "path": "sprites\\sword"
+    },
+    {
+      "name": "obj_player_idle",
+      "type": "texture",
+      "path": "sprites\\player_idle"
+    },
+    {
+      "name": "obj_player_run",
+      "type": "framedTexture",
+      "path": "sprites\\player_run\\",
+      "frames": 6
+    },
+    {
+      "name": "itm_sword_swipe",
+      "type": "texture",
+      "path": "sprites\\sword_swipe"
+    },
+    {
+      "name": "itm_magic_ball",
+      "type": "framedTexture",
+      "path": "sprites\\magicBall\\magicBall_",
+      "frames": 5
+    },
+    {
+      "name": "itm_magic_book",
+      "type": "texture",
+      "path": "sprites\\magic_book"
+    },
+    {
+      "name": "obj_enemy_walk",
+      "type": "framedTexture",
+      "path": "sprites\\enemy_walk\\enemy_walk_",
+      "frames": 3
+    },
+    {
+      "name": "obj_boss_fly",
+      "type": "framedTexture",
+      "path": "sprites\\boss_fly\\boss_fly_",
+      "frames": 4
+    },
+    {
+      "name": "redBullet",
+      "type": "texture",
+      "path": "sprites\\redBullet"
+    },
+    {
+      "name": "fnt_main",
+      "type": "font",
+      "path": "mainFont"
+    },
+    {
+      "name": "msc_main",
+      "type": "sound",
+      "path": "mainTheme"
+    },
+    {
+      "name": "snd_jump_air",
+      "type": "sound",
+      "path": "sounds\\airjump"
+    },
+    {
+      "name": "snd_jump_ground",
+      "type": "sound",
+      "path": "sounds\\groundjump"
+    },
+    {
+      "name": "snd_magic_1",
+      "type": "sound",
+      "path": "sounds\\magic"
+    },
+    {
+      "name": "snd_magic_2",
+      "type": "sound",
+      "path": "sounds\\magic2"
+    },
+    {
+      "name": "snd_sword_1",
+      "type": "sound",
+      "path": "sounds\\swing"
+    },
+    {
+      "name": "snd_sword_2",
+      "type": "sound",
+      "path": "sounds\\swing2"
+    },
+    {
+      "name": "snd_sword_3",
+      "type": "sound",
+      "path": "sounds\\swing3"
+    },
+    {
+      "name": "lgt_circular",
+      "type": "texture",
+      "path": "sprites\\circularLight"
+    },
+    {
+      "name": "msc_boss",
+      "type": "sound",
+      "path": "bossTheme"
+    },
+    {
+      "name": "bg_stoneBrick",
+      "type": "texture",
+      "path": "sprites\\stoneBrick\\stoneBrick_background"
+    }
+  ]
+}

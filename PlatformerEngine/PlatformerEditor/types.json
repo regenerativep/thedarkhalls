@@ -1,0 +1,36 @@
+{
+  "objectTypes": [
+    {
+      "name": "Block",
+      "internalName": "obj_block",
+      "width": "64",
+      "height": "64"
+    },
+    {
+      "name": "Player",
+      "internalName": "obj_player",
+      "width": "64",
+      "height": "32"
+    },
+    {
+      "name": "Enemy",
+      "internalName": "obj_enemy",
+      "width": "32",
+      "height": "64"
+    },
+    {
+      "name": "Upgrade",
+      "internalName": "obj_upgrade",
+      "width": "48",
+      "height": "48"
+    }
+  ],
+	"tileTypes": [
+		{
+			"name": "Stone Brick",
+			"internalName": "tle_stonebrick",
+			"width": "64",
+			"height": "64"
+		}
+	]
+}
